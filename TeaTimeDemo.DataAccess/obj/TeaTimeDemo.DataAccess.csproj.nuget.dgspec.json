@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\mvc_book\\TeaTimeDemo.DataAccess\\TeaTimeDemo.DataAccess.csproj": {}
+    "D:\\MVC-book\\TeaTimeDemo.DataAccess\\TeaTimeDemo.DataAccess.csproj": {}
   },
   "projects": {
-    "D:\\mvc_book\\TeaTimeDemo.DataAccess\\TeaTimeDemo.DataAccess.csproj": {
+    "D:\\MVC-book\\TeaTimeDemo.DataAccess\\TeaTimeDemo.DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\mvc_book\\TeaTimeDemo.DataAccess\\TeaTimeDemo.DataAccess.csproj",
+        "projectUniqueName": "D:\\MVC-book\\TeaTimeDemo.DataAccess\\TeaTimeDemo.DataAccess.csproj",
         "projectName": "TeaTimeDemo.DataAccess",
-        "projectPath": "D:\\mvc_book\\TeaTimeDemo.DataAccess\\TeaTimeDemo.DataAccess.csproj",
+        "projectPath": "D:\\MVC-book\\TeaTimeDemo.DataAccess\\TeaTimeDemo.DataAccess.csproj",
         "packagesPath": "C:\\Users\\asus\\.nuget\\packages\\",
-        "outputPath": "D:\\mvc_book\\TeaTimeDemo.DataAccess\\obj\\",
+        "outputPath": "D:\\MVC-book\\TeaTimeDemo.DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -32,11 +32,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\mvc_book\\TeaTimeDemo\\TeaTimeDemo.Models\\TeaTimeDemo.Models.csproj": {
-                "projectPath": "D:\\mvc_book\\TeaTimeDemo\\TeaTimeDemo.Models\\TeaTimeDemo.Models.csproj"
+              "D:\\MVC-book\\TeaTimeDemo\\TeaTimeDemo.Models\\TeaTimeDemo.Models.csproj": {
+                "projectPath": "D:\\MVC-book\\TeaTimeDemo\\TeaTimeDemo.Models\\TeaTimeDemo.Models.csproj"
               },
-              "D:\\mvc_book\\TeaTimeDemo\\TeaTimeDemo.Utility\\TeaTimeDemo.Utility.csproj": {
-                "projectPath": "D:\\mvc_book\\TeaTimeDemo\\TeaTimeDemo.Utility\\TeaTimeDemo.Utility.csproj"
+              "D:\\MVC-book\\TeaTimeDemo\\TeaTimeDemo.Utility\\TeaTimeDemo.Utility.csproj": {
+                "projectPath": "D:\\MVC-book\\TeaTimeDemo\\TeaTimeDemo.Utility\\TeaTimeDemo.Utility.csproj"
               }
             }
           }
@@ -91,14 +91,14 @@
         }
       }
     },
-    "D:\\mvc_book\\TeaTimeDemo\\TeaTimeDemo.Models\\TeaTimeDemo.Models.csproj": {
+    "D:\\MVC-book\\TeaTimeDemo\\TeaTimeDemo.Models\\TeaTimeDemo.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\mvc_book\\TeaTimeDemo\\TeaTimeDemo.Models\\TeaTimeDemo.Models.csproj",
+        "projectUniqueName": "D:\\MVC-book\\TeaTimeDemo\\TeaTimeDemo.Models\\TeaTimeDemo.Models.csproj",
         "projectName": "TeaTimeDemo.Models",
-        "projectPath": "D:\\mvc_book\\TeaTimeDemo\\TeaTimeDemo.Models\\TeaTimeDemo.Models.csproj",
+        "projectPath": "D:\\MVC-book\\TeaTimeDemo\\TeaTimeDemo.Models\\TeaTimeDemo.Models.csproj",
         "packagesPath": "C:\\Users\\asus\\.nuget\\packages\\",
-        "outputPath": "D:\\mvc_book\\TeaTimeDemo\\TeaTimeDemo.Models\\obj\\",
+        "outputPath": "D:\\MVC-book\\TeaTimeDemo\\TeaTimeDemo.Models\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -161,14 +161,14 @@
         }
       }
     },
-    "D:\\mvc_book\\TeaTimeDemo\\TeaTimeDemo.Utility\\TeaTimeDemo.Utility.csproj": {
+    "D:\\MVC-book\\TeaTimeDemo\\TeaTimeDemo.Utility\\TeaTimeDemo.Utility.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\mvc_book\\TeaTimeDemo\\TeaTimeDemo.Utility\\TeaTimeDemo.Utility.csproj",
+        "projectUniqueName": "D:\\MVC-book\\TeaTimeDemo\\TeaTimeDemo.Utility\\TeaTimeDemo.Utility.csproj",
         "projectName": "TeaTimeDemo.Utility",
-        "projectPath": "D:\\mvc_book\\TeaTimeDemo\\TeaTimeDemo.Utility\\TeaTimeDemo.Utility.csproj",
+        "projectPath": "D:\\MVC-book\\TeaTimeDemo\\TeaTimeDemo.Utility\\TeaTimeDemo.Utility.csproj",
         "packagesPath": "C:\\Users\\asus\\.nuget\\packages\\",
-        "outputPath": "D:\\mvc_book\\TeaTimeDemo\\TeaTimeDemo.Utility\\obj\\",
+        "outputPath": "D:\\MVC-book\\TeaTimeDemo\\TeaTimeDemo.Utility\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

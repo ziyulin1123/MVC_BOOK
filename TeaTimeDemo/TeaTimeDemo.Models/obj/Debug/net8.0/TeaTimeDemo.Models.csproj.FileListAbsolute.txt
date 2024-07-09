@@ -33,3 +33,16 @@ D:\MVC_BOOK\TeaTimeDemo\TeaTimeDemo.Models\obj\Debug\net8.0\TeaTimeDemo.Models.p
 D:\MVC_BOOK\TeaTimeDemo\TeaTimeDemo.Models\obj\Debug\net8.0\ref\TeaTimeDemo.Models.dll
 D:\mvc_book\TeaTimeDemo\TeaTimeDemo.Models\obj\Debug\net8.0\TeaTimeDemo.Models.csproj.AssemblyReference.cache
 D:\mvc_book\TeaTimeDemo\TeaTimeDemo.Models\obj\Debug\net8.0\TeaTimeDemo.Models.sourcelink.json
+D:\MVC-book\TeaTimeDemo\TeaTimeDemo.Models\bin\Debug\net8.0\TeaTimeDemo.Models.deps.json
+D:\MVC-book\TeaTimeDemo\TeaTimeDemo.Models\bin\Debug\net8.0\TeaTimeDemo.Models.dll
+D:\MVC-book\TeaTimeDemo\TeaTimeDemo.Models\bin\Debug\net8.0\TeaTimeDemo.Models.pdb
+D:\MVC-book\TeaTimeDemo\TeaTimeDemo.Models\obj\Debug\net8.0\TeaTimeDemo.Models.csproj.AssemblyReference.cache
+D:\MVC-book\TeaTimeDemo\TeaTimeDemo.Models\obj\Debug\net8.0\TeaTimeDemo.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\MVC-book\TeaTimeDemo\TeaTimeDemo.Models\obj\Debug\net8.0\TeaTimeDemo.Models.AssemblyInfoInputs.cache
+D:\MVC-book\TeaTimeDemo\TeaTimeDemo.Models\obj\Debug\net8.0\TeaTimeDemo.Models.AssemblyInfo.cs
+D:\MVC-book\TeaTimeDemo\TeaTimeDemo.Models\obj\Debug\net8.0\TeaTimeDemo.Models.csproj.CoreCompileInputs.cache
+D:\MVC-book\TeaTimeDemo\TeaTimeDemo.Models\obj\Debug\net8.0\TeaTimeDemo.Models.sourcelink.json
+D:\MVC-book\TeaTimeDemo\TeaTimeDemo.Models\obj\Debug\net8.0\TeaTimeDemo.Models.dll
+D:\MVC-book\TeaTimeDemo\TeaTimeDemo.Models\obj\Debug\net8.0\refint\TeaTimeDemo.Models.dll
+D:\MVC-book\TeaTimeDemo\TeaTimeDemo.Models\obj\Debug\net8.0\TeaTimeDemo.Models.pdb
+D:\MVC-book\TeaTimeDemo\TeaTimeDemo.Models\obj\Debug\net8.0\ref\TeaTimeDemo.Models.dll

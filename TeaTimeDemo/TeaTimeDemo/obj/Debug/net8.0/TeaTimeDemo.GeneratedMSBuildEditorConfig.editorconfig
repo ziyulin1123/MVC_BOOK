@@ -17,87 +17,87 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = TeaTimeDemo
 build_property.RootNamespace = TeaTimeDemo
-build_property.ProjectDir = D:\mvc_book\TeaTimeDemo\TeaTimeDemo\
+build_property.ProjectDir = D:\MVC-book\TeaTimeDemo\TeaTimeDemo\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\mvc_book\TeaTimeDemo\TeaTimeDemo
+build_property.MSBuildProjectDirectory = D:\MVC-book\TeaTimeDemo\TeaTimeDemo
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/mvc_book/TeaTimeDemo/TeaTimeDemo/Areas/Admin/Views/Category/Create.cshtml]
+[D:/MVC-book/TeaTimeDemo/TeaTimeDemo/Areas/Admin/Views/Category/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ2F0ZWdvcnlcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/mvc_book/TeaTimeDemo/TeaTimeDemo/Areas/Admin/Views/Category/Delete.cshtml]
+[D:/MVC-book/TeaTimeDemo/TeaTimeDemo/Areas/Admin/Views/Category/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ2F0ZWdvcnlcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/mvc_book/TeaTimeDemo/TeaTimeDemo/Areas/Admin/Views/Category/Edit.cshtml]
+[D:/MVC-book/TeaTimeDemo/TeaTimeDemo/Areas/Admin/Views/Category/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ2F0ZWdvcnlcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/mvc_book/TeaTimeDemo/TeaTimeDemo/Areas/Admin/Views/Category/Index.cshtml]
+[D:/MVC-book/TeaTimeDemo/TeaTimeDemo/Areas/Admin/Views/Category/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ2F0ZWdvcnlcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/mvc_book/TeaTimeDemo/TeaTimeDemo/Areas/Admin/Views/Product/Delete.cshtml]
+[D:/MVC-book/TeaTimeDemo/TeaTimeDemo/Areas/Admin/Views/Product/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJvZHVjdFxEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/mvc_book/TeaTimeDemo/TeaTimeDemo/Areas/Admin/Views/Product/Index.cshtml]
+[D:/MVC-book/TeaTimeDemo/TeaTimeDemo/Areas/Admin/Views/Product/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJvZHVjdFxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/mvc_book/TeaTimeDemo/TeaTimeDemo/Areas/Admin/Views/Product/Upsert.cshtml]
+[D:/MVC-book/TeaTimeDemo/TeaTimeDemo/Areas/Admin/Views/Product/Upsert.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJvZHVjdFxVcHNlcnQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/mvc_book/TeaTimeDemo/TeaTimeDemo/Areas/Admin/Views/_ViewImports.cshtml]
+[D:/MVC-book/TeaTimeDemo/TeaTimeDemo/Areas/Admin/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/mvc_book/TeaTimeDemo/TeaTimeDemo/Areas/Admin/Views/_ViewStart.cshtml]
+[D:/MVC-book/TeaTimeDemo/TeaTimeDemo/Areas/Admin/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/mvc_book/TeaTimeDemo/TeaTimeDemo/Areas/Customer/Views/Home/Index.cshtml]
+[D:/MVC-book/TeaTimeDemo/TeaTimeDemo/Areas/Customer/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQ3VzdG9tZXJcVmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/mvc_book/TeaTimeDemo/TeaTimeDemo/Areas/Customer/Views/Home/Privacy.cshtml]
+[D:/MVC-book/TeaTimeDemo/TeaTimeDemo/Areas/Customer/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQ3VzdG9tZXJcVmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/mvc_book/TeaTimeDemo/TeaTimeDemo/Areas/Customer/Views/_ViewImports.cshtml]
+[D:/MVC-book/TeaTimeDemo/TeaTimeDemo/Areas/Customer/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQ3VzdG9tZXJcVmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/mvc_book/TeaTimeDemo/TeaTimeDemo/Areas/Customer/Views/_ViewStart.cshtml]
+[D:/MVC-book/TeaTimeDemo/TeaTimeDemo/Areas/Customer/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQ3VzdG9tZXJcVmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/mvc_book/TeaTimeDemo/TeaTimeDemo/Views/Shared/Error.cshtml]
+[D:/MVC-book/TeaTimeDemo/TeaTimeDemo/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/mvc_book/TeaTimeDemo/TeaTimeDemo/Views/Shared/_Notification.cshtml]
+[D:/MVC-book/TeaTimeDemo/TeaTimeDemo/Views/Shared/_Notification.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Ob3RpZmljYXRpb24uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/mvc_book/TeaTimeDemo/TeaTimeDemo/Views/Shared/_ValidationScriptsPartial.cshtml]
+[D:/MVC-book/TeaTimeDemo/TeaTimeDemo/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/mvc_book/TeaTimeDemo/TeaTimeDemo/Views/_ViewImports.cshtml]
+[D:/MVC-book/TeaTimeDemo/TeaTimeDemo/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/mvc_book/TeaTimeDemo/TeaTimeDemo/Views/_ViewStart.cshtml]
+[D:/MVC-book/TeaTimeDemo/TeaTimeDemo/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/mvc_book/TeaTimeDemo/TeaTimeDemo/Views/Shared/_Layout.cshtml]
+[D:/MVC-book/TeaTimeDemo/TeaTimeDemo/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-qaebygco5z

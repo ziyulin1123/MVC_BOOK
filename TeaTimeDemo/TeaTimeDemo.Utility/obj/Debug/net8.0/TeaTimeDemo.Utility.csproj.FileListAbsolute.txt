@@ -32,3 +32,15 @@ D:\MVC_BOOK\TeaTimeDemo\TeaTimeDemo.Utility\obj\Debug\net8.0\refint\TeaTimeDemo.
 D:\MVC_BOOK\TeaTimeDemo\TeaTimeDemo.Utility\obj\Debug\net8.0\TeaTimeDemo.Utility.pdb
 D:\MVC_BOOK\TeaTimeDemo\TeaTimeDemo.Utility\obj\Debug\net8.0\ref\TeaTimeDemo.Utility.dll
 D:\mvc_book\TeaTimeDemo\TeaTimeDemo.Utility\obj\Debug\net8.0\TeaTimeDemo.Utility.sourcelink.json
+D:\MVC-book\TeaTimeDemo\TeaTimeDemo.Utility\bin\Debug\net8.0\TeaTimeDemo.Utility.deps.json
+D:\MVC-book\TeaTimeDemo\TeaTimeDemo.Utility\bin\Debug\net8.0\TeaTimeDemo.Utility.dll
+D:\MVC-book\TeaTimeDemo\TeaTimeDemo.Utility\bin\Debug\net8.0\TeaTimeDemo.Utility.pdb
+D:\MVC-book\TeaTimeDemo\TeaTimeDemo.Utility\obj\Debug\net8.0\TeaTimeDemo.Utility.GeneratedMSBuildEditorConfig.editorconfig
+D:\MVC-book\TeaTimeDemo\TeaTimeDemo.Utility\obj\Debug\net8.0\TeaTimeDemo.Utility.AssemblyInfoInputs.cache
+D:\MVC-book\TeaTimeDemo\TeaTimeDemo.Utility\obj\Debug\net8.0\TeaTimeDemo.Utility.AssemblyInfo.cs
+D:\MVC-book\TeaTimeDemo\TeaTimeDemo.Utility\obj\Debug\net8.0\TeaTimeDemo.Utility.csproj.CoreCompileInputs.cache
+D:\MVC-book\TeaTimeDemo\TeaTimeDemo.Utility\obj\Debug\net8.0\TeaTimeDemo.Utility.sourcelink.json
+D:\MVC-book\TeaTimeDemo\TeaTimeDemo.Utility\obj\Debug\net8.0\TeaTimeDemo.Utility.dll
+D:\MVC-book\TeaTimeDemo\TeaTimeDemo.Utility\obj\Debug\net8.0\refint\TeaTimeDemo.Utility.dll
+D:\MVC-book\TeaTimeDemo\TeaTimeDemo.Utility\obj\Debug\net8.0\TeaTimeDemo.Utility.pdb
+D:\MVC-book\TeaTimeDemo\TeaTimeDemo.Utility\obj\Debug\net8.0\ref\TeaTimeDemo.Utility.dll

@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\MVC_BOOK\\TeaTimeDemo\\TeaTimeDemo.Utility\\TeaTimeDemo.Utility.csproj",
+      "projectUniqueName": "D:\\MVC-book\\TeaTimeDemo\\TeaTimeDemo.Utility\\TeaTimeDemo.Utility.csproj",
       "projectName": "TeaTimeDemo.Utility",
-      "projectPath": "D:\\MVC_BOOK\\TeaTimeDemo\\TeaTimeDemo.Utility\\TeaTimeDemo.Utility.csproj",
+      "projectPath": "D:\\MVC-book\\TeaTimeDemo\\TeaTimeDemo.Utility\\TeaTimeDemo.Utility.csproj",
       "packagesPath": "C:\\Users\\asus\\.nuget\\packages\\",
-      "outputPath": "D:\\MVC_BOOK\\TeaTimeDemo\\TeaTimeDemo.Utility\\obj\\",
+      "outputPath": "D:\\MVC-book\\TeaTimeDemo\\TeaTimeDemo.Utility\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

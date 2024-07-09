@@ -40,7 +40,14 @@
         </div>
         <div class="row">
             <div class="col-6 col-md-3">
-                <button type="submit" class="btn btn-primary form-control">新增</button>
+                @if (Model.Product.Id != 0)
+                {
+                    <button type="submit" class="btn btn-primary form-control">編輯</button>
+                }
+                else
+                {
+                    <button type="submit" class="btn btn-primary form-control">新增</button>
+                }
             </div>
             <div class="col-6 col-md-3">
                 <a asp-controller="Product" asp-action="Index" class="btn btn-secondary border form-control">
@@ -48,15 +55,8 @@
                 </a>
             </div>
         </div>
-        <div class="col-6 col-md-3">
-            @if (Model.Product.Id != 0)
-            {
-                <button type="submit" class="btn btn-primary form-control">編輯</button>
-            }
-            else
-            {
-                <button type="submit" class="btn btn-primary form-control">新增</button>
-            }
+        <div class="col-2">
+            <img class="mt-4" src="@Model.Product.ImageUrl" width="100%" style="border-radius:5px; border:1px solid #bbb9b9" />
         </div>
     </div>
 </form>
