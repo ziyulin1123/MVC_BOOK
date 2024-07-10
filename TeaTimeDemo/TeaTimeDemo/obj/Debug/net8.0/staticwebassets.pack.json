@@ -13,6 +13,10 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "D:\\MVC-book\\TeaTimeDemo\\TeaTimeDemo\\wwwroot\\images\\product\\05ef9498-dc0b-48b8-8b67-ac16b9c3ce22.png",
+      "PackagePath": "staticwebassets\\images\\product\\05ef9498-dc0b-48b8-8b67-ac16b9c3ce22.png"
+    },
+    {
       "Id": "D:\\MVC-book\\TeaTimeDemo\\TeaTimeDemo\\wwwroot\\images\\product\\061a5593-37d8-48c9-aac2-a84870e15111.png",
       "PackagePath": "staticwebassets\\images\\product\\061a5593-37d8-48c9-aac2-a84870e15111.png"
     },
@@ -27,6 +31,22 @@
     {
       "Id": "D:\\MVC-book\\TeaTimeDemo\\TeaTimeDemo\\wwwroot\\images\\product\\5992f356-6f8b-4cc6-a83a-01735414d4f0.png",
       "PackagePath": "staticwebassets\\images\\product\\5992f356-6f8b-4cc6-a83a-01735414d4f0.png"
+    },
+    {
+      "Id": "D:\\MVC-book\\TeaTimeDemo\\TeaTimeDemo\\wwwroot\\images\\product\\87b8558b-58c9-4241-9357-714a3b10dc62.png",
+      "PackagePath": "staticwebassets\\images\\product\\87b8558b-58c9-4241-9357-714a3b10dc62.png"
+    },
+    {
+      "Id": "D:\\MVC-book\\TeaTimeDemo\\TeaTimeDemo\\wwwroot\\images\\product\\8fbdf4d2-cf26-4464-a754-5f28b8e06b28.png",
+      "PackagePath": "staticwebassets\\images\\product\\8fbdf4d2-cf26-4464-a754-5f28b8e06b28.png"
+    },
+    {
+      "Id": "D:\\MVC-book\\TeaTimeDemo\\TeaTimeDemo\\wwwroot\\images\\product\\ce25d34a-7cc5-4548-a86d-c4fcbe3f2be8.png",
+      "PackagePath": "staticwebassets\\images\\product\\ce25d34a-7cc5-4548-a86d-c4fcbe3f2be8.png"
+    },
+    {
+      "Id": "D:\\MVC-book\\TeaTimeDemo\\TeaTimeDemo\\wwwroot\\js\\product.js",
+      "PackagePath": "staticwebassets\\js\\product.js"
     },
     {
       "Id": "D:\\MVC-book\\TeaTimeDemo\\TeaTimeDemo\\wwwroot\\js\\site.js",
