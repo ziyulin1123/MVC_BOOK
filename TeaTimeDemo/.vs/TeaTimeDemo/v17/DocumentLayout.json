@@ -3,20 +3,16 @@
   "WorkspaceRootPath": "D:\\MVC-book\\TeaTimeDemo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{02DBA8DE-EF1F-42D3-BDE5-D0EDFD4A1EB5}|TeaTimeDemo\\TeaTimeDemo.csproj|d:\\mvc-book\\teatimedemo\\teatimedemo\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{02DBA8DE-EF1F-42D3-BDE5-D0EDFD4A1EB5}|TeaTimeDemo\\TeaTimeDemo.csproj|solutionrelative:teatimedemo\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{02DBA8DE-EF1F-42D3-BDE5-D0EDFD4A1EB5}|TeaTimeDemo\\TeaTimeDemo.csproj|d:\\mvc-book\\teatimedemo\\teatimedemo\\areas\\customer\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{02DBA8DE-EF1F-42D3-BDE5-D0EDFD4A1EB5}|TeaTimeDemo\\TeaTimeDemo.csproj|solutionrelative:teatimedemo\\areas\\customer\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{02DBA8DE-EF1F-42D3-BDE5-D0EDFD4A1EB5}|TeaTimeDemo\\TeaTimeDemo.csproj|d:\\mvc-book\\teatimedemo\\teatimedemo\\wwwroot\\js\\product.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{02DBA8DE-EF1F-42D3-BDE5-D0EDFD4A1EB5}|TeaTimeDemo\\TeaTimeDemo.csproj|solutionrelative:teatimedemo\\wwwroot\\js\\product.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+      "AbsoluteMoniker": "D:0:0:{02DBA8DE-EF1F-42D3-BDE5-D0EDFD4A1EB5}|TeaTimeDemo\\TeaTimeDemo.csproj|d:\\mvc-book\\teatimedemo\\teatimedemo\\areas\\customer\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02DBA8DE-EF1F-42D3-BDE5-D0EDFD4A1EB5}|TeaTimeDemo\\TeaTimeDemo.csproj|solutionrelative:teatimedemo\\areas\\customer\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{02DBA8DE-EF1F-42D3-BDE5-D0EDFD4A1EB5}|TeaTimeDemo\\TeaTimeDemo.csproj|d:\\mvc-book\\teatimedemo\\teatimedemo\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{02DBA8DE-EF1F-42D3-BDE5-D0EDFD4A1EB5}|TeaTimeDemo\\TeaTimeDemo.csproj|solutionrelative:teatimedemo\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{02DBA8DE-EF1F-42D3-BDE5-D0EDFD4A1EB5}|TeaTimeDemo\\TeaTimeDemo.csproj|d:\\mvc-book\\teatimedemo\\teatimedemo\\areas\\admin\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{02DBA8DE-EF1F-42D3-BDE5-D0EDFD4A1EB5}|TeaTimeDemo\\TeaTimeDemo.csproj|solutionrelative:teatimedemo\\areas\\admin\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{02DBA8DE-EF1F-42D3-BDE5-D0EDFD4A1EB5}|TeaTimeDemo\\TeaTimeDemo.csproj|d:\\mvc-book\\teatimedemo\\teatimedemo\\areas\\customer\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{02DBA8DE-EF1F-42D3-BDE5-D0EDFD4A1EB5}|TeaTimeDemo\\TeaTimeDemo.csproj|solutionrelative:teatimedemo\\areas\\customer\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{02DBA8DE-EF1F-42D3-BDE5-D0EDFD4A1EB5}|TeaTimeDemo\\TeaTimeDemo.csproj|d:\\mvc-book\\teatimedemo\\teatimedemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -30,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,59 +34,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "product.js",
-              "DocumentMoniker": "D:\\MVC-book\\TeaTimeDemo\\TeaTimeDemo\\wwwroot\\js\\product.js",
-              "RelativeDocumentMoniker": "TeaTimeDemo\\wwwroot\\js\\product.js",
-              "ToolTip": "D:\\MVC-book\\TeaTimeDemo\\TeaTimeDemo\\wwwroot\\js\\product.js",
-              "RelativeToolTip": "TeaTimeDemo\\wwwroot\\js\\product.js",
-              "ViewState": "AQIAACcAAAAAAAAAAAAQwDEAAAAOAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-07-09T08:39:43.144Z",
+              "DocumentIndex": 0,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\MVC-book\\TeaTimeDemo\\TeaTimeDemo\\Areas\\Customer\\Views\\Home\\Details.cshtml",
+              "RelativeDocumentMoniker": "TeaTimeDemo\\Areas\\Customer\\Views\\Home\\Details.cshtml",
+              "ToolTip": "D:\\MVC-book\\TeaTimeDemo\\TeaTimeDemo\\Areas\\Customer\\Views\\Home\\Details.cshtml",
+              "RelativeToolTip": "TeaTimeDemo\\Areas\\Customer\\Views\\Home\\Details.cshtml",
+              "ViewState": "AQIAAIcAAAAAAAAAAAAAAJcAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-10T08:01:28.493Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "D:\\MVC-book\\TeaTimeDemo\\TeaTimeDemo\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "TeaTimeDemo\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "D:\\MVC-book\\TeaTimeDemo\\TeaTimeDemo\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "TeaTimeDemo\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAADAAAAAAAAAAAAAAAD0AAABHAAAA",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\MVC-book\\TeaTimeDemo\\TeaTimeDemo\\Areas\\Customer\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "TeaTimeDemo\\Areas\\Customer\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\MVC-book\\TeaTimeDemo\\TeaTimeDemo\\Areas\\Customer\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "TeaTimeDemo\\Areas\\Customer\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA7AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-09T08:21:02.131Z",
+              "WhenOpened": "2024-07-10T06:54:26.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\MVC-book\\TeaTimeDemo\\TeaTimeDemo\\Areas\\Customer\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "TeaTimeDemo\\Areas\\Customer\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\MVC-book\\TeaTimeDemo\\TeaTimeDemo\\Areas\\Customer\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "TeaTimeDemo\\Areas\\Customer\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwBgAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T06:50:05.661Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\MVC-book\\TeaTimeDemo\\TeaTimeDemo\\Areas\\Admin\\Views\\Product\\Index.cshtml",
-              "RelativeDocumentMoniker": "TeaTimeDemo\\Areas\\Admin\\Views\\Product\\Index.cshtml",
-              "ToolTip": "D:\\MVC-book\\TeaTimeDemo\\TeaTimeDemo\\Areas\\Admin\\Views\\Product\\Index.cshtml",
-              "RelativeToolTip": "TeaTimeDemo\\Areas\\Admin\\Views\\Product\\Index.cshtml",
-              "ViewState": "AQIAABkAAAAAAAAAAAAQwB0AAAAVAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-09T08:08:55.255Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ProductController.cs",
-              "DocumentMoniker": "D:\\MVC-book\\TeaTimeDemo\\TeaTimeDemo\\Areas\\Admin\\Controllers\\ProductController.cs",
-              "RelativeDocumentMoniker": "TeaTimeDemo\\Areas\\Admin\\Controllers\\ProductController.cs",
-              "ToolTip": "D:\\MVC-book\\TeaTimeDemo\\TeaTimeDemo\\Areas\\Admin\\Controllers\\ProductController.cs",
-              "RelativeToolTip": "TeaTimeDemo\\Areas\\Admin\\Controllers\\ProductController.cs",
-              "ViewState": "AQIAAJAAAAAAAAAAAAAowLEAAABCAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-09T08:04:02.364Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\MVC-book\\TeaTimeDemo\\TeaTimeDemo\\Program.cs",
               "RelativeDocumentMoniker": "TeaTimeDemo\\Program.cs",
