@@ -44,3 +44,4 @@ D:\MVC-book\TeaTimeDemo\TeaTimeDemo.Utility\obj\Debug\net8.0\TeaTimeDemo.Utility
 D:\MVC-book\TeaTimeDemo\TeaTimeDemo.Utility\obj\Debug\net8.0\refint\TeaTimeDemo.Utility.dll
 D:\MVC-book\TeaTimeDemo\TeaTimeDemo.Utility\obj\Debug\net8.0\TeaTimeDemo.Utility.pdb
 D:\MVC-book\TeaTimeDemo\TeaTimeDemo.Utility\obj\Debug\net8.0\ref\TeaTimeDemo.Utility.dll
+D:\MVC-book\TeaTimeDemo\TeaTimeDemo.Utility\obj\Debug\net8.0\TeaTimeDemo.Utility.csproj.AssemblyReference.cache

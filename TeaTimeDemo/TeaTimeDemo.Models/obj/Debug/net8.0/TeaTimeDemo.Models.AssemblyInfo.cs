@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TeaTimeDemo.Models")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+aad57754071c203f1447ad6f87efafc2498f7f2b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+20c3a6582c77eac8856d26fb9f9ffc8a793cc65f")]
 [assembly: System.Reflection.AssemblyProductAttribute("TeaTimeDemo.Models")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TeaTimeDemo.Models")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
