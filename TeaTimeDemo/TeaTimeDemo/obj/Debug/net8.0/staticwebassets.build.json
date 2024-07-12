@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "YiqkQMZMusch4k2vdR155sl1TYMOOLthPw1ziSguyZI=",
+  "Hash": "bCglRoZuGN+t/UwSKF8Ol3TdgqQTC7j7xhbkl2r/C0Y=",
   "Source": "TeaTimeDemo",
   "BasePath": "_content/TeaTimeDemo",
   "Mode": "Default",
@@ -1421,6 +1421,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\site.js"
+    },
+    {
+      "Identity": "D:\\MVC-book\\TeaTimeDemo\\TeaTimeDemo\\wwwroot\\js\\store.js",
+      "SourceId": "TeaTimeDemo",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\MVC-book\\TeaTimeDemo\\TeaTimeDemo\\wwwroot\\",
+      "BasePath": "_content/TeaTimeDemo",
+      "RelativePath": "js/store.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\store.js"
     },
     {
       "Identity": "D:\\MVC-book\\TeaTimeDemo\\TeaTimeDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",

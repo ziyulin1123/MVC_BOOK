@@ -53,6 +53,10 @@
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
+      "Id": "D:\\MVC-book\\TeaTimeDemo\\TeaTimeDemo\\wwwroot\\js\\store.js",
+      "PackagePath": "staticwebassets\\js\\store.js"
+    },
+    {
       "Id": "D:\\MVC-book\\TeaTimeDemo\\TeaTimeDemo\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },

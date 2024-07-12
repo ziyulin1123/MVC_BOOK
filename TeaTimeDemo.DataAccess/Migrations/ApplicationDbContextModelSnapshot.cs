@@ -269,6 +269,64 @@ namespace TeaTimeDemo.DataAccess.Migrations
                         });
                 });
 
+            modelBuilder.Entity("TeaTimeDemo.Models.Store", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
+
+                    b.Property<string>("Address")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("City")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("Description")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("Name")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("PhoneNumber")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.HasKey("Id");
+
+                    b.ToTable("Stores");
+
+                    b.HasData(
+                        new
+                        {
+                            Id = 1,
+                            Address = "台中市北區三民路三段129號",
+                            City = "台中市",
+                            Description = "鄰近台中一中商圈，學生消暑勝地。",
+                            Name = "台中一中店",
+                            PhoneNumber = "0987654321"
+                        },
+                        new
+                        {
+                            Id = 2,
+                            Address = "台北市大安區大安路一段11號",
+                            City = "台北市",
+                            Description = "濃厚的教育文化及熱鬧繁華的商圈，豐富整體氛圍。",
+                            Name = "台北大安店",
+                            PhoneNumber = "0911111111"
+                        },
+                        new
+                        {
+                            Id = 3,
+                            Address = "台南市安平區安平路22號",
+                            City = "台南市",
+                            Description = "歷史造就了現今的安平，茶香中蘊含了悠遠的歷史。",
+                            Name = "台南安平店",
+                            PhoneNumber = "0922222222"
+                        });
+                });
+
             modelBuilder.Entity("TeaTimeDemo.Product", b =>
                 {
                     b.Property<int>("Id")
@@ -350,6 +408,11 @@ namespace TeaTimeDemo.DataAccess.Migrations
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
+                    b.Property<int?>("StoreId")
+                        .HasColumnType("int");
+
+                    b.HasIndex("StoreId");
+
                     b.HasDiscriminator().HasValue("ApplicationUser");
                 });
 
@@ -413,6 +476,15 @@ namespace TeaTimeDemo.DataAccess.Migrations
                         .IsRequired();
 
                     b.Navigation("Category");
+                });
+
+            modelBuilder.Entity("TeaTimeDemo.Models.ApplicationUser", b =>
+                {
+                    b.HasOne("TeaTimeDemo.Models.Store", "store")
+                        .WithMany()
+                        .HasForeignKey("StoreId");
+
+                    b.Navigation("store");
                 });
 #pragma warning restore 612, 618
         }
