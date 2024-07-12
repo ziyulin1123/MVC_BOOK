@@ -14,6 +14,7 @@
           "Microsoft.EntityFrameworkCore.SqlServer": "9.0.0-preview.1.24081.2",
           "Microsoft.EntityFrameworkCore.Sqlite": "8.0.7",
           "Microsoft.EntityFrameworkCore.Tools": "9.0.0-preview.1.24081.2",
+          "Microsoft.Extensions.Identity.Stores": "8.0.7",
           "Microsoft.VisualStudio.Web.CodeGeneration.Design": "8.0.3",
           "TeaTimeDemo.DataAccess": "1.0.0"
         },
@@ -3082,6 +3083,7 @@
           "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "8.0.7",
           "Microsoft.EntityFrameworkCore": "9.0.0-preview.1.24081.2",
           "Microsoft.EntityFrameworkCore.SqlServer": "9.0.0-preview.1.24081.2",
+          "Microsoft.Extensions.Identity.Stores": "8.0.7",
           "TeaTimeDemo.Models": "1.0.0",
           "TeaTimeDemo.Utility": "1.0.0"
         },
@@ -3100,7 +3102,8 @@
       },
       "TeaTimeDemo.Utility/1.0.0": {
         "dependencies": {
-          "Microsoft.AspNetCore.Identity.UI": "8.0.7"
+          "Microsoft.AspNetCore.Identity.UI": "8.0.7",
+          "Microsoft.Extensions.Identity.Stores": "8.0.7"
         },
         "runtime": {
           "TeaTimeDemo.Utility.dll": {}

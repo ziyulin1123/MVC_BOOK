@@ -792,7 +792,8 @@
   },
   "projectFileDependencyGroups": {
     "net8.0": [
-      "Microsoft.AspNetCore.Identity.UI >= 8.0.7"
+      "Microsoft.AspNetCore.Identity.UI >= 8.0.7",
+      "Microsoft.Extensions.Identity.Stores >= 8.0.7"
     ]
   },
   "packageFolders": {
@@ -845,6 +846,10 @@
         "targetAlias": "net8.0",
         "dependencies": {
           "Microsoft.AspNetCore.Identity.UI": {
+            "target": "Package",
+            "version": "[8.0.7, )"
+          },
+          "Microsoft.Extensions.Identity.Stores": {
             "target": "Package",
             "version": "[8.0.7, )"
           }
